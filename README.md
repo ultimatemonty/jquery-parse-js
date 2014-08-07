@@ -1,4 +1,4 @@
-jQuery.Parse
+jquery-parse-js
 ============
 
 jQuery wrapper for the [Parse.com Javascript API](https://www.parse.com/docs/js_guide#javascript_guide)
